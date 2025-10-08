@@ -21,19 +21,6 @@ Jupyter Notebook (IPYNB) – Interactive analysis
 
 Workflow
 =
-MruStudentsdata.csv
-        │
-        ▼
-   Load Data (PySpark / Pandas)
-        │
-        ▼
-   Data Cleaning & Transformation
-        │
-        ▼
-Descriptive Statistics & Aggregation
-        │
-        ▼
-   Visualizations (Matplotlib / Seaborn)
-        │
-        ▼
- Insights & Recommendations
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/200ff881-d443-42a9-8567-32f40fc1da81" />
+
+
