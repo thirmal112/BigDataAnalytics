@@ -21,6 +21,8 @@ Jupyter Notebook (IPYNB) – Interactive analysis
 
 Workflow
 =
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/200ff881-d443-42a9-8567-32f40fc1da81" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/83e4c91e-cba1-4953-8c21-e79a602d9169" />
+
+
 
 
